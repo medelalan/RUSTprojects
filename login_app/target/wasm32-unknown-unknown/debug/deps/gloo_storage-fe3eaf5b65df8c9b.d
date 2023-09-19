@@ -1,0 +1,10 @@
+/Users/kotoS2/Code/RUSTprojects/login_app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-fe3eaf5b65df8c9b.rmeta: /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/kotoS2/Code/RUSTprojects/login_app/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-fe3eaf5b65df8c9b.rlib: /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/kotoS2/Code/RUSTprojects/login_app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-fe3eaf5b65df8c9b.d: /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs:
+/Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs:
+/Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/kotoS2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs:

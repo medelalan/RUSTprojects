@@ -4,7 +4,7 @@ struct Model {
     value: i64
 }
 
-#[Function_Component(App)]
+#[function_component(App)]
 fn app() -> Html {
     let state = use_state(|| Model {
         value:0
@@ -22,7 +22,7 @@ fn app() -> Html {
 
     html! {
         <div>
-            <button {onclick}>+1</button>
+            <button {onclick}>{ "+1" }</button>
             <p>{ state.value }</p>
         </div>    
     }
